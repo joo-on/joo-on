@@ -15,11 +15,11 @@
 ### Yanolja (01/2022 – 05/2025) | Senior Backend Engineer
 *Korea’s leading accommodation booking platform*
 
-- Rebuilt BFF layer; improved UX → +5% conversion
-- Reduced API P99 latency by 96% (5s → 200ms); optimized multiple APIs
-- Unified inventory logic; prevented overbooking
+- [Rebuilt BFF layer; improved UX → +5% conversion](/projects/yanolja-bff-rebuild.md)
+- [Reduced API latency (PDP/RDP 60%+, Best-Price 5s→200ms); set company-wide standards](/projects/yanolja-api-latency-improvement.md)
+- [Unified inventory logic; eliminated overbooking and accelerated development](/projects/yanolja-unified-inventory-logic.md)
 - Delivered new product types; streamlined technical debt
-- Increased fault tolerance (80–90%) with Circuit Breaker design
+- Increased fault tolerance (80–90%); introduced circuit breaker design
 - Improved code quality through PR reviews; mentored junior engineers
 
 ### Wisetracker (04/2018 – 08/2021) | Full-Stack Engineer
