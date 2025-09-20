@@ -25,8 +25,8 @@
 ### Wisetracker (04/2018 – 08/2021) | Full-Stack Engineer
 *Ad-tech startup providing mobile attribution and in-app analytics*
 
-- Built high-throughput data pipelines (2000+ TPS) with Kafka & Spring Boot
-- Optimized analytics queries with ORC; accelerated data processing
+- [Built high-throughput data pipelines (2000+ TPS) with Kafka & Spring Boot, enabling scalable in-app analytics](/projects/wisetracker-data-pipeline.md)
+- [Optimized analytics with ORC & MySQL caching; reduced dashboard queries from 20min → 1–2s](/projects/wisetracker-orc-optimization.md)
 - Migrated legacy systems to AWS; improved scalability and resilience
 - Developed real-time monitoring dashboards with React
 
