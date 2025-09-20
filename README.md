@@ -18,9 +18,9 @@
 - [Rebuilt BFF layer; improved UX → +5% conversion](/projects/yanolja-bff-rebuild.md)
 - [Reduced API latency (PDP/RDP 60%+, Best-Price 5s→200ms); set company-wide standards](/projects/yanolja-api-latency-improvement.md)
 - [Unified inventory logic; eliminated overbooking and accelerated development](/projects/yanolja-unified-inventory-logic.md)
-- Delivered new product types; streamlined technical debt
+- Launched new product types (room-level inventory, high-priority display, multi-night surcharges, membership) while streamlining technical debt
 - Increased fault tolerance (80–90%); introduced circuit breaker design
-- Improved code quality through PR reviews; mentored junior engineers
+- Improved code quality through PR reviews; mentored junior engineers through 1:1s, code reviews, and pair programming
 
 ### Wisetracker (04/2018 – 08/2021) | Full-Stack Engineer
 *Ad-tech startup providing mobile attribution and in-app analytics*
@@ -37,13 +37,10 @@
 - Selected talks:  
   - [Why we started ITMCA](https://www.youtube.com/watch?v=iiPNgI2GuYI) (in Korean)
   - [Connecting IT trends with community support](https://www.youtube.com/watch?v=cp2OQKLOEGE) (in Korean)
-- **Lifepuzzle** — a storytelling app to preserve grandparents’ memories  
-    - Practiced product leadership and hands-on product design  
-    - Details: TBD (link to docs)  
-
-## Key Repositories
-Projects that showcase system design and hands-on engineering.  
-- TBD
+- **Lifepuzzle** — an AI-powered, photo-first storytelling app to preserve grandparents’ memories and strengthen family connections  
+    - Led product vision, design, and engineering execution  
+    - [Project Overview](/projects/lifepuzzle-overview.md)  
+    - [iOS](https://apps.apple.com/kr/app/%EC%9D%B8%EC%83%9D%ED%8D%BC%EC%A6%90/id6443452557) | [Android](https://play.google.com/store/apps/details?id=io.itmca.lifepuzzle)  
 
 ## 🌍 Languages
 
@@ -59,4 +56,4 @@ Projects that showcase system design and hands-on engineering.
 - 📍 Based in Toronto, ON
 
 
-✨ *Always curious about how technology, product, and business come together to create meaningful impact.*
+✨ *Always curious about how technology, product, and business come together — with a passion for AI, scalable systems, and building products that create meaningful impact.*
