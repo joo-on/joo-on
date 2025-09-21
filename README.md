@@ -31,7 +31,7 @@
 - Developed real-time monitoring dashboards with React
 
 
-## Community & Side Projects
+## 🤝 Community & Side Projects
 **ITMCA** — a community for people building positive impact with IT.  
 - Organized on/offline seminars and recruited collaborators  
 - Selected talks:  
