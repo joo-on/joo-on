@@ -7,7 +7,7 @@
 - **Backend**: Java (8–21), Spring Boot, Spring Cloud, JPA
 - **Frontend**: React, TypeScript, Redux, Recoil
 - **Data & Event**: MySQL, Redis, Kafka, Avro, MongoDB
-- **Infra & Tools**: AWS, Docker, Linux, Jenkins, Grafana, Git, Kubernetes (side projects)  
+- **Infra & Tools**: AWS, Docker, Linux, Jenkins, Grafana, Git, Kubernetes (side projects)
 
 
 ## 💼 Experience Highlights
@@ -30,23 +30,33 @@
 - Migrated legacy systems to AWS; improved scalability and resilience
 - Developed real-time monitoring dashboards with React
 
+## 🚀 Featured Projects
+
+- [Hotel Booking System](https://github.com/joo-on/hotel-booking-system): High-concurrency booking platform with inventory, payment, coupon, membership, and search; built with Java 25 (LTS), Spring Boot, MySQL, Redis, Kafka, and MongoDB for reviews/logs.
+- [Distributed Rate Limiter](https://github.com/joo-on/distributed-rate-limiter): Scalable API rate limiter supporting token bucket, sliding window algorithms, and Redis-based distributed enforcement.
+- [Secure Voting System](https://github.com/joo-on/secure-voting-system): Tamper-proof online voting system ensuring anonymity, duplicate prevention, verifiable counting, and audit logging with MongoDB.
+- [Search Engine](https://github.com/joo-on/search-engine): Web crawler and **inverted indexing** system with ranking algorithms (TF-IDF, BM25). Built with Java 25 (LTS), Spring Boot, Kafka, Redis, and MongoDB.
+- [Real-time Event Processing](https://github.com/joo-on/real-time-event-processing): Streaming pipeline for user activity events with **Kafka, Spark, and Flink** — supporting real-time aggregations, anomaly detection, and alerting.
 
 ## 🤝 Community & Side Projects
-**ITMCA** — a community for people building positive impact with IT.  
-- Organized on/offline seminars and recruited collaborators  
-- Selected talks:  
+**ITMCA** — a community for people building positive impact with IT.
+- Organized on/offline seminars and recruited collaborators
+- Selected talks:
   - [Why we started ITMCA](https://www.youtube.com/watch?v=iiPNgI2GuYI) (in Korean)
   - [Connecting IT trends with community support](https://www.youtube.com/watch?v=cp2OQKLOEGE) (in Korean)
-- **Lifepuzzle** — an AI-powered, photo-first storytelling app to preserve grandparents’ memories and strengthen family connections  
-    - Led product vision, design, and engineering execution  
-    - [Project Overview](/projects/lifepuzzle-overview.md)  
-    - [iOS](https://apps.apple.com/kr/app/%EC%9D%B8%EC%83%9D%ED%8D%BC%EC%A6%90/id6443452557) | [Android](https://play.google.com/store/apps/details?id=io.itmca.lifepuzzle)  
+- **Lifepuzzle** — an AI-powered, photo-first storytelling app to preserve grandparents’ memories and strengthen family connections
+  - Led product vision, design, and engineering execution
+  - [Project Overview](/projects/lifepuzzle-overview.md)
+  - [iOS](https://apps.apple.com/kr/app/%EC%9D%B8%EC%83%9D%ED%8D%BC%EC%A6%90/id6443452557) | [Android](https://play.google.com/store/apps/details?id=io.itmca.lifepuzzle)
+- **Manitto App** — a playful social app with random matching, missions, and real-time chat
+  - Implemented random matching algorithm, mission system, and real-time communication with SSE/WebSocket
+  - [Repository](https://github.com/joo-on/manitto-app)
 
 ## 🌍 Languages
 
-- Korean (Native)  
-- English (Professional proficiency)  
-- Chinese (Basic proficiency)  
+- Korean (Native)
+- English (Professional proficiency)
+- Chinese (Basic proficiency)
 
 
 # 📫 Connect with Me
